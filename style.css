@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.text-color {
+  font-size: 15px;
+  color: #7f538a;
+}
+
+.info-title {
+  font-size: 20px;
+  padding: 10px;
+  border-bottom: 1.5px solid black;
+}
+
+.area1 {
+  height: 250px;
+  background-color: #b77575;
+}
+.area1 img {
+  display: block;
+  width: 100px;
+  height: 92px;
+  border-radius: 30cm;
+  margin: auto;
+  padding-top: 19px;
+}
+.area1 .text-area {
+  text-align: center;
+}
+
+.container {
+  padding: 0 32px;
+}
+.container .info {
+  padding-left: 30px;
+}
+.container .area3 {
+  background-color: #b77575;
+  border-radius: 30%;
+}
+.container .area3 .text {
+  text-align: center;
+}
+.container .area3 .info-title {
+  text-align: center;
+  border-bottom: 1.5px solid rgb(239, 237, 244);
+}
+.container .place {
+  font-size: 20px;
+  padding: 10px;
+  color: rgb(41, 4, 72);
+}
+.container .experience {
+  margin: 3px;
+}
+.container .work-text {
+  margin-bottom: 5px;
+}/*# sourceMappingURL=style.css.map */

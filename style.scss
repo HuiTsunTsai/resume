@@ -1,0 +1,83 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+$primary-color: #b77575;
+
+.text-color{
+    font-size: 15px;
+    color: #7f538a;
+}
+
+.info-title{
+    font-size: 20px;
+    padding: 10px;
+    border-bottom: 1.5px solid black;
+}
+
+// Area1
+.area1{
+    height: 250px;
+    background-color: #b77575;
+
+    img{
+        display: block;
+        width: 100px;
+        height: 92px;
+        border-radius: 30cm;
+        margin: auto;
+        padding-top: 19px;
+    }
+
+    .text-area{
+        text-align: center;
+    }
+
+}
+
+// Area2
+.container{
+    padding: 0 32px;
+
+    .info{
+        padding-left: 30px;
+    }
+
+    // Area3
+    .area3{
+        background-color: $primary-color;
+        border-radius: 30%;
+
+        .text{
+            text-align: center;
+        }      
+    }
+
+    .area3 .info-title{
+        text-align: center;
+        border-bottom: 1.5px solid rgb(239, 237, 244);
+    }
+
+    // Area4
+    .place{
+        font-size: 20px;
+        padding: 10px;
+        color: rgb(41, 4, 72);
+    }
+
+    .experience{
+        margin: 3px;
+    }
+
+    .work-text{
+        margin-bottom: 5px;
+    }
+
+}
+
+
+
+
+
+
